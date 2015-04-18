@@ -32,6 +32,7 @@ public class Main {
         window.setGLCanvas(canvas, BorderLayout.CENTER);
         animator.start();
         window.setVisibility(true);
+        System.out.print("SIEMA");
         
     }  
 }
